@@ -20,7 +20,8 @@ class MyApp extends StatelessWidget {
             "Portfolio",
             style: TextStyle(
               fontWeight: FontWeight.bold,
-              fontSize: 24,
+              //i made this font size 29
+              fontSize: 29,
             ),
           ),
           leading: const Icon(
