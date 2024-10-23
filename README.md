@@ -13,7 +13,7 @@ Dart: The programming language used in Flutter development.
 # How to Use:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-flutter-screen-clone.git
+      https://github.com/mrrobot5-a/Simple-screen-using-Flutter
 
 
 # Screen of app
